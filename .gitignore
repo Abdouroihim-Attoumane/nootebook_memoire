@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+data_csv_bac/
+data_csv_inscrits/
+*.html
